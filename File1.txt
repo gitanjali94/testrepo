@@ -4,4 +4,10 @@ change 2 -->CHANGE 2
 
 change 3
 
+<<<<<<< HEAD
 gita hiii
+=======
+change 4!!!!!!!!!!!!
+
+change 5
+>>>>>>> 93a2df55531e83115d119b6aacff9ced094e3d33
